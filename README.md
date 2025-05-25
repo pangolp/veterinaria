@@ -1,5 +1,10 @@
-# Vue 3 + Vite
+# Veterinaria
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+![preview](https://github.com/user-attachments/assets/35661d50-f63d-4df0-89c9-3cc211d9b6fa)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Un projecto desarrollado con vite + vue.js y tailwindcss.
+
+Un CRUD que se almacena en local storage.
+
+- Deploy: https://pangolp.github.io/veterinaria/
+- Fuente: https://www.udemy.com/course/vuejs-la-guia-completa-composition-pinia-mevn-creando-proyectos-reales/
